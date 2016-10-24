@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
-        <id>jQuery.Bootgrid</id>
+        <id>jQuery.Bootgrid.da</id>
         <version>$version$</version>
-        <title>jQuery Bootgrid</title>
+        <title>jQuery Bootgrid DA Customization</title>
         <authors>Rafael Staib</authors>
         <owners>r_staib</owners>
         <licenseUrl>https://github.com/rstaib/jquery-bootgrid/blob/master/LICENSE.txt</licenseUrl>
