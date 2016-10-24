@@ -219,9 +219,6 @@
             {
                 this.xqr.abort();
             }
-
-            url += "atributo=teste";
-
             var settings = {
                 url: url,
                 data: request,
