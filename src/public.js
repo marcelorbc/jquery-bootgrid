@@ -168,10 +168,10 @@ Grid.defaults = {
          *
          * @property method
          * @type String
-         * @default "POST"
+         * @default "GET"
          * @for ajaxSettings
          **/
-        method: "POST"
+        method: "GET"
     },
 
     /**
