@@ -210,7 +210,7 @@ function loadData()
             this.xqr.abort();
         }
 
-        url += "atributo=teste"
+        url += "atributo=teste";
 
         var settings = {
             url: url,
